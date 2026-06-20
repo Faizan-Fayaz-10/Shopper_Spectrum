@@ -14,7 +14,7 @@ The project helps businesses understand customer purchasing behavior, improve ma
 
 ---
 
-🌐 **Live Demo:** [Shopper Spectrum on Hugging Face](https://huggingface.co/spaces/Alvira-14/Shopper_Spectrum)
+🌐 **Live Demo:** [Shopper Spectrum on Hugging Face](https://huggingface.co/spaces/Faizan-10/Shopper_Spectrum)
 
 ---
 
@@ -337,7 +337,7 @@ JUMBO BAG APPLES
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Alvira-Parveen/Shopper_Spectrum.git
+git clone https://github.com/Faizan-Fayaz-10/Shopper_Spectrum.git
 
 cd Shopper_Spectrum
 ```
@@ -400,17 +400,16 @@ This solution helps businesses:
 
 ## 👤 Author
 
-**ALVIRA PARVEEN**
+**Name**: FAIZAN FAYAZ 
 
-🔗 LinkedIn: https://www.linkedin.com/in/alvira-parveen-78022536b
-
-🌐 GitHub: https://github.com/Alvira-Parveen
+🔗 [LinkedIn](https://www.linkedin.com/in/faizan-fayaz-464723326/)  
+🌐 [GitHub](https://github.com/Faizan-Fayaz-10)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
